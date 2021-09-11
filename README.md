@@ -3,6 +3,26 @@
 > 2. If you find some typos or you think you can improve some part, just modify this file and push to github
  
 
+Table of Contents
+=================
+
+   * [1. Install git](#1-install-git)
+   * [2. Clone a repository from github](#2-clone-a-repository-from-github)
+   * [3. Basic usage of git](#3-basic-usage-of-git)
+      * [3.1 Add changes and commit the changes](#31-add-changes-and-commit-the-changes)
+      * [3.2 Version rollback](#32-version-rollback)
+         * [Rollback before commit](#rollback-before-commit)
+         * [Rollback after commit](#rollback-after-commit)
+   * [4. Use branches to cooperate](#4-use-branches-to-cooperate)
+      * [4.1 Create a new branch](#41-create-a-new-branch)
+      * [4.2 Add new features with new branches](#42-add-new-features-with-new-branches)
+      * [4.3 Local and remote branches](#43-local-and-remote-branches)
+      * [4.4 Push and pull from remote repository](#44-push-and-pull-from-remote-repository)
+   * [5. General work flow](#5-general-work-flow)
+      * [5.1 Best practice about branches](#51-best-practice-about-branches)
+      * [5.2 Working flow](#52-working-flow)
+
+
 ## 1. Install git 
 ```shell
 sudo apt install git 
