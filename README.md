@@ -1,8 +1,3 @@
-> **_Note_**: 
-> 1. This guild assumes that you use linux (ubuntu especially) system, and you know the basics about linux command line
-> 2. If you find some typos or you think you can improve some part, just modify this file and push to github
- 
-
 Table of Contents
 =================
 
@@ -22,6 +17,11 @@ Table of Contents
       * [5.1 Best practice about branches](#51-best-practice-about-branches)
       * [5.2 Working flow](#52-working-flow)
 
+
+> **_Note_**: 
+> 1. This guild assumes that you use linux (ubuntu especially) system, and you know the basics about linux command line
+> 2. If you find some typos or you think you can improve some part, just modify this file and push to github
+ 
 
 ## 1. Install git 
 ```shell
